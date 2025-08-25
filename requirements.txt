@@ -1,0 +1,7 @@
+langchain-google-genai 
+python-dotenv
+langchain-community
+langchain_huggingface 
+sentence_transformers
+langchain-pinecone
+streamlit 
